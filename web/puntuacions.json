@@ -1,0 +1,14 @@
+{
+    "arnau": {
+        "nom": "arnau",
+        "punts": 2
+    },
+    "marc": {
+        "nom": "marc",
+        "punts": 1
+    },
+    "saul": {
+        "nom": "saul",
+        "punts": 0
+    }
+}
